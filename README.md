@@ -5,7 +5,7 @@ A simple [Annotorious](https://github.com/annotorious/annotorious) plugin that a
 
 ## Using this Plugin
 
-Simply [download the script](https://github.com/amkurian/annotorious-autocomplete-dropdown-plugin/anno-autocomplete-dropdown-plugin.js),
+Simply [download the script](https://raw.githubusercontent.com/amkurian/annotorious-autocomplete-dropdown-plugin/master/anno-autocomplete-dropdown-plugin.js),
 copy it to your server/Webspace and set it up with your page as described below.
 
 1. The plugin uses jQuery. Therefore you need to import jQuery before importing the plugin script.
