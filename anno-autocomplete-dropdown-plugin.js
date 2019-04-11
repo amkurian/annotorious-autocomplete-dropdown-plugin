@@ -31,7 +31,6 @@ function autocomplete(inp, arr) {
       div_tag.setAttribute("id", "autocomplete-list");
       div_tag.setAttribute("class", "autocomplete-items");
       /*append the DIV element as a child of the autocomplete container:*/
-      debugger;
       this.parentNode.appendChild(div_tag);
       /*for each item in the array...*/
       for (i = 0; i < arr.length; i++) {
@@ -46,7 +45,6 @@ function autocomplete(inp, arr) {
               inp.val(this.getElementsByTagName("input")[0].value)
               closeAllLists();
           });
-          debugger;
           div_tag.appendChild(input_tag);
         }
       }
