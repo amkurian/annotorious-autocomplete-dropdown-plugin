@@ -33,5 +33,6 @@ copy it to your server/Webspace and set it up with your page as described below.
         </script>
       <head>
     ....
-    
+  
+  ![](https://github.com/amkurian/annotorious-autocomplete-dropdown-plugin/blob/master/gif/Peek%202019-01-31%2010-37.gif)
    
